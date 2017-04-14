@@ -13,7 +13,7 @@ public class Suggestion {
     public CarWash carWash;
     public Sport sport;
     public class Comfort{
-        @SerializedName("text")
+        @SerializedName("txt")
         public String info;
     }
     public class CarWash{
